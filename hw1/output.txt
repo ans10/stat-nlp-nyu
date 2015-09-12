@@ -300,4 +300,3 @@ GOLD:	AM: -3.00E03	LM: -1.49E02	Total: -3.15E03	[in, late, spring, nineteen, eig
 
 GUESS:	AM: -2.67E03	LM: -1.03E02	Total: -2.77E03	[the, survey, indicated, that, the, economy, expanded, briskly, in, october, reversing, a, three, month, decline]
 GOLD:	AM: -2.67E03	LM: -1.03E02	Total: -2.77E03	[the, survey, indicated, that, the, economy, expanded, briskly, in, october, reversing, a, three, month, decline]
-
